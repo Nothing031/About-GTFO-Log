@@ -42,8 +42,8 @@ keyword that contains about rundown
 * area : check down below (2 = C)
 ##### how to get area
 * go to the ri line
-* check key weight(25001)
+* check random value(0.1441305)
 * go to first "AREA RESULT" line
-* check Total area weight(1)
-* if the key weight and area weight matches, the area value is "AreaIndex"(2). and ignore any next lines
-* if the key weight and area weight does not match. goto next "AREA RESULT" line and check again until the end
+* get sum of every total area weight
+* randomValue * sum = final weight
+
