@@ -36,14 +36,14 @@ keyword that contains about rundown
 * 06:33:21.407 - <color=#C84800>>>>> CalcAreaWeights AREA RESULT: AreaIndex: 8 StartMul: 0 MiddleMul: 0 EndMul: 1 --- ZonePlacementWeights, Start: 0 Middle: 50000 End: 0 Total area weight: 1</color>
 * 06:33:21.408 - <color=#C84800>TryGetExistingGenericFunctionDistributionForSession, foundDist in zone: ZONE505 function: ResourceContainerWeak available: 51 randomValue: 0.1441305 ri: 17 had weight: 25001</color>
 #### info
-* ri : box index (: 17)
-* zone : zone (: 505)
-* publicName : key name (: KEY_WHITE_259)
-* area : check down below (: 2 = C)
+* ri : box index (17)
+* zone : zone (505)
+* publicName : key name (KEY_WHITE_259)
+* area : check down below (2 = C)
 ###### how to get area
 * go to the ri line
-* check key weight(: 25001)
+* check key weight(25001)
 * go to first "AREA RESULT" line
-* check Total area weight(: 1)
-* if the key weight and area weight matches the area index. area value is "AreaIndex"(: 2). and ignore any next lines
+* check Total area weight(1)
+* if the key weight and area weight matches, the area value is "AreaIndex"(2). and ignore any next lines
 * if the key weight and area weight does not match. goto next "AREA RESULT" line and check again until the end
