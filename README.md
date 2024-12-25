@@ -40,7 +40,7 @@ keyword that contains about rundown
 * zone : zone (505)
 * publicName : key name (KEY_WHITE_259)
 * area : check down below (2 = C)
-###### how to get area
+##### how to get area
 * go to the ri line
 * check key weight(25001)
 * go to first "AREA RESULT" line
