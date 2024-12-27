@@ -39,13 +39,4 @@ keyword that contains about rundown
 * ri : box index (17)
 * zone : zone (505)
 * publicName : key name (KEY_WHITE_259)
-* area : check down below (2 = C)
-##### how to get area
-* EDIT: IDK HOW THIS MOTHER FUCKING AREA WEIGHT WORKS
-* this shit doesn't work
-* go to the ri line
-* check random value(0.1441305)
-* go to first "AREA RESULT" line
-* get sum of every total area weight
-* randomValue * sum = final weight
-
+* area : FUCK IT
