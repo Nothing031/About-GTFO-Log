@@ -1,7 +1,6 @@
 # About-GTFO-Log
 ## Rundowns
-keyword that contains about rundown
-: SelectActiveExpedition
+keyword : SelectActiveExpedition
 * R1 : Local_32
 * R2 : Local_33
 * R3 : Local_34
@@ -10,16 +9,15 @@ keyword that contains about rundown
 * R6 : Local_41
 * R7 : Local_31
 * R8 : Local_35
-## States
-
+## States keywords
 * rundown selected(contains rundown data) :SelectActiveExpedition
 * dropping : GAMESTATEMANAGER CHANGE STATE FROM : Lobby TO: Generating
 * Key loading and etc...
 * load done : BUILDER : BuildDone
 * game start(start of timer) : GAMESTATEMANAGER CHANGE STATE FROM : ReadyToStartLevel TO: InLevel
-* game done (failed) : GAMESTATEMANAGER CHANGE STATE FROM : InLevel TO: ExpeditionFail
-* game done (abort) : GAMESTATEMANAGER CHANGE STATE FROM : InLevel TO: ExpeditionAbort
-* game done (success) : GAMESTATEMANAGER CHANGE STATE FROM : InLevel TO: ExpeditionSuccess
+* game done (failed)         : GAMESTATEMANAGER CHANGE STATE FROM : InLevel TO: ExpeditionFail
+* game done (abort)          : GAMESTATEMANAGER CHANGE STATE FROM : InLevel TO: ExpeditionAbort
+* game done (success)        : GAMESTATEMANAGER CHANGE STATE FROM : InLevel TO: ExpeditionSuccess
 
 ## Keys
 #### log
