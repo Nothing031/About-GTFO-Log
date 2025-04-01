@@ -11,6 +11,6 @@ keyword : SelectActiveExpedition
 * R8 : Local_35
 ***
 * [GameState](GameState.md)
-* [PickupItem](PickupItem.md.md)
+* [PickupItem](PickupItem.md)
 * [Key](Key.md)
 * [Hsu](Hsu.md)
