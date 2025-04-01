@@ -1,5 +1,5 @@
 # Key
-### Log
+### Batch : Distribution
 ```
 06:33:21.393 - <color=purple>CreateKeyItemDistribution, keyItem: PublicName: KEY_WHITE_259 SpawnedItem: KeyItemPickup_Core(Clone)_GateKeyItem:KEY_WHITE_259_terminalKey: KEY_WHITE_259 (KeyItemPickup_Core) placementData: DimensionIndex: Reality LocalIndex: Zone_1 ZonePlacementWeights, Start: 0 Middle: 50000 End: 0</color>
 06:33:21.394 - <color=#C84800>>>>> CalcAreaWeights START: FindContainerFor PublicName: KEY_WHITE_259 SpawnedItem: KeyItemPickup_Core(Clone)_GateKeyItem:KEY_WHITE_259_terminalKey: KEY_WHITE_259 (KeyItemPickup_Core) --- Zone: ZONE505, AreaCount: 9 half: 4 even: False ZonePlacementWeights, Start: 0 Middle: 50000 End: 0</color>
