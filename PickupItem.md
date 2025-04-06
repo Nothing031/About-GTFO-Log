@@ -15,6 +15,7 @@
     18:59:11.085 - GenericSmallPickupItem_Core.SetupFromLevelgen, seed: 1669201920  isWardenObjective: True SpawnNode: AIGraph.AIG_CourseNode
     18:59:11.085 - GenericSmallPickupItem_Core.SetupPartialDecoder PersonnelPickup_Core.SetupPartialDecoder
 ```
+* the string "Spawning Personnel ID" does not meaning it is pid.
 ### Extractable data
 * type (string)
 * seed
