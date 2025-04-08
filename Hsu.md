@@ -6,4 +6,4 @@
 
 ## Extractable data
 * Zone (int)
-* LG_Area object name (Unity.Object)
+* Index
